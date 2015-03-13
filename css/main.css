@@ -24,7 +24,7 @@ h1 {
   font-size: 3rem;
   margin: 0;
   position: absolute;
-  bottom: 645px;
+  bottom: 652px;
   text-shadow: 2px -2px 2px #4d0009;
   width: 100%;
   text-align: center;
@@ -38,7 +38,7 @@ h1 {
   padding: 0.25em;
   position: absolute;
   left: 0;
-  bottom: 625px;
+  bottom: 627px;
   text-shadow: 2px -2px 2px #4d0009;
   text-align: center;
   width: 100%;
@@ -148,8 +148,12 @@ div {
 }
 
 footer {
-  background-color: black;
+  background-color: #222;
   text-align: center;
-  color:white;
+  color: white;
   padding: 2em;
+  font-size: 0.85em
+}
+a {
+  color: white;
 }
