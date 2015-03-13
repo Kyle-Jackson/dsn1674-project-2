@@ -1,0 +1,42 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+header {
+  background-color: #e7001d;
+  margin: 0 0;
+  color: white;
+  text-align: center;
+  padding: 1em;
+
+
+}
+
+h1 {
+  font-size: 3rem;
+  margin: 0;
+  position: absolute;
+  left: 250px;
+  bottom: 645px;
+  text-shadow: 2px -2px 2px #4d0009;
+}
+
+.zodiac {
+  font-size: 0.85rem;
+  margin: 0;
+  padding: 0.25em;
+  position: absolute;
+  left: 250px;
+  bottom: 620px;
+  text-shadow: 2px -2px 2px #4d0009;
+
+}
+
+.medallion {
+  width: 93px;
+}
+
+img {
+  width: 100%;
+}
