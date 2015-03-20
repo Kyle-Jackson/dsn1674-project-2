@@ -162,4 +162,5 @@ a {
   position: relative;
   padding: 0;
   background-color: transparent;
+  clear: both;
 }
